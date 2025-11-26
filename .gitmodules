@@ -1,0 +1,3 @@
+[submodule "eventify/eventify/backend"]
+	path = eventify/eventify/backend
+	url = https://github.com/ahmedsrr/backend.git
