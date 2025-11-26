@@ -17,8 +17,7 @@ return [
     |
     */
     'allowed_origins' => [
-        'http://localhost:3000' ,
-        'http://127.0.0.1:3000' ,
+        'https://eventifya.vercel.app/'
         ],
 >>>>>>> f13ca709289e4f41531592e10cb44d905cf2220d
     'paths' => ['api/*', 'login','logout', 'sanctum/csrf-cookie'],
